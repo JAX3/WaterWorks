@@ -1,0 +1,8 @@
+{
+  "block.waterworks.watersteel_ore_nether": "watersteel ore",
+  "block.waterworks.watersteel_ore_end": "watersteel ore",
+  "block.waterworks.watersteel_ore_overworld": "watersteel ore",
+  "block.waterworks.watersteel_ore_deepslate": "watersteel ore",
+  "itemGroup.waterworks": "Tutorial"
+
+}

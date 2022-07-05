@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "waterworks:watersteel_ore_overworld",
+    "waterworks:watersteel_ore_deepslate",
+    "waterworks:watersteel_ore_end",
+    "waterworks:watersteel_ore_nether"
+  ]
+}
